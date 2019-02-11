@@ -10,14 +10,18 @@ Example:
 ```
 Name: Foo-bar
 URL: https://foooooooo
-Category: Effects
+Category: Effects/Misc
 Description: Foos the music and chops into bars!
 ```
 Please, no demo versions that inject white noise every 5 seconds or that shut down in half a hour!
 
+## Contents:
+ + [Synthesizers](https://github.com/GingkathFox/Mac-VSTs#synthesizers)
+   - [Subtractive](
+
 # Synthesizers
 
-**Subtractive**
+#### Subtractive
 
 **Additive**
 
