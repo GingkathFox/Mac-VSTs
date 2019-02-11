@@ -26,7 +26,7 @@ Please, no demo versions that inject white noise every 5 seconds or that shut do
    - [Wavetable](https://github.com/GingkathFox/Mac-VSTs#wavetable)
    - [Kick](https://github.com/GingkathFox/Mac-VSTs#kick)
    - [Misc](https://github.com/GingkathFox/Mac-VSTs#misc)
-
+ + [Effects](https://github.com/GingkathFox/Mac-VSTs#effects)
 # Synthesizers
 
 #### Subtractive
