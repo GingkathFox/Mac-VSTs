@@ -23,78 +23,78 @@ Please, no demo versions that inject white noise every 5 seconds or that shut do
 
 #### Subtractive
 
-**Additive**
+### Additive
 
-**Granular**
+### Granular
 
-**Bass**
+### Bass
 
-**Modular**
+### Modular
 
-**Vocal**
+### Vocal
 
-**Wavetable**
+### Wavetable
 
-**Kick**
+### Kick
 
-**Misc**
+### Misc
 
 # Effects
 
-**Analyzers**
+### Analyzers
 
-**Bitcrush**
+### Bitcrush
 
-**Chorus**
+### Chorus
 
-**Clippers**
+### Clippers
 
-**Compressors**
+### Compressors
 
-**Delay**
+### Delay
 
-**Distortion**
+### Distortion
 
-***Fuzz***
+#### Fuzz
 
-***Overdrive***
+#### Overdrive
 
-**Duckers**
+### Duckers
 
-**EQs**
+### EQs
 
-**Filters**
+### Filters
 
-**Flangers**
+### Flangers
 
-**Gain**
+### Gain
 
-**Games**
+### Games
 
-**Gates**
+### Gates
 
-**Grain**
+### Grain
 
-**LFOs**
+### LFOs
 
-**Misc**
+### Misc
 
-**Mixed**
+### Mixed
 
-**Modulation**
+### Modulation
 
-**Panners**
+### Panners
 
-**Phasers**
+### Phasers
 
-**Pitchshift**
+### Pitchshift
 
-**Reverb**
+### Reverb
 
-**Saturation**
+### Saturation
 
-**Stereo**
+### Stereo
 
-**Tremolos/Vibratos**
+### Tremolos/Vibratos
 
-**Wave Modulation**
+### Wave Modulation
