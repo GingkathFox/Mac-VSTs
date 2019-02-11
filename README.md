@@ -13,7 +13,7 @@ URL: https://foooooooo
 Category: Effects
 Description: Foos the music and chops into bars!
 ```
-Please, no demo vrsions that inject white noise every 5 seconds or that shut down in half a hour!
+Please, no demo versions that inject white noise every 5 seconds or that shut down in half a hour!
 
 # Synthesizers
 
