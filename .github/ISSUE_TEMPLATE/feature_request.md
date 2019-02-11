@@ -10,8 +10,8 @@ assignees: ''
 **What is the name of the VST?**
 
 
-**What category should it go in?**
-Effects, Synthesizers
+**What category and subcategory should it go in?**
+Example: Effects/Distortion/Overdrive
 
 **What does the VST do?**
 A clear and concise description of the VST.
