@@ -1,5 +1,5 @@
 # Mac-VSTs
-List of VSTs for MacOS! `.vst` and `.au` are the extensions.
+List of free VSTs for MacOS! `.vst` and `.au` are the extensions.
 
 How to be listed:
 
@@ -13,7 +13,7 @@ URL: https://foooooooo
 Category: Effects
 Description: Foos the music and chops into bars!
 ```
-
+Please, no demo vrsions that inject white noise every 5 seconds or that shut down in half a hour!
 
 # Synthesizers
 
