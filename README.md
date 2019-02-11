@@ -17,7 +17,15 @@ Please, no demo versions that inject white noise every 5 seconds or that shut do
 
 ## Contents:
  + [Synthesizers](https://github.com/GingkathFox/Mac-VSTs#synthesizers)
-   - [Subtractive](
+   - [Subtractive](https://github.com/GingkathFox/Mac-VSTs#subtractive)
+   - [Additive](https://github.com/GingkathFox/Mac-VSTs#additive)
+   - [Granular](https://github.com/GingkathFox/Mac-VSTs#granular)
+   - [Bass](https://github.com/GingkathFox/Mac-VSTs#bass)
+   - [Modular](https://github.com/GingkathFox/Mac-VSTs#modular)
+   - [Vocal](https://github.com/GingkathFox/Mac-VSTs#vocal)
+   - [Wavetable](https://github.com/GingkathFox/Mac-VSTs#wavetable)
+   - [Kick](https://github.com/GingkathFox/Mac-VSTs#kick)
+   - [Misc](https://github.com/GingkathFox/Mac-VSTs#misc)
 
 # Synthesizers
 
